@@ -1,0 +1,46 @@
+body{
+    background: rgb(22, 22, 22);
+    font-family: 'Signika', sans-serif;
+}
+.postcard{
+    height:300px;
+    width:420px;
+    background:white;
+    margin-top:150px;
+    margin-left:300px;
+}
+   
+.header{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.rightside{
+    padding:10px;
+}
+.leftside{
+    padding:10px;
+}
+.middle{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding-left:40px;
+    padding-bottom:40px;
+    margin:-30px;}
+.info{
+    padding-right:130px;
+    padding-top:10px;
+    color:rgb(150, 148, 148);
+    line-height: 0px;
+}
+.footer{
+    text-align:center;
+}
+
+button{
+    background-color:rgb(184, 183, 183);
+    border:none;
+    border-bottom: 1px solid black;
+    padding:5px;
+}
