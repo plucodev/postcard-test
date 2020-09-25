@@ -6,7 +6,7 @@ The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](
 
 [![How to open html/css preview of my project in gitpod](https://ucarecdn.com/573d0bef-9c8c-48dd-a6ef-401972dff96d/)](https://youtu.be/dfbDCMu_p-0)
 
-## What to do next?
+## What to do next? ciao ciao
 
 Create a `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running web-server using the following command:
 
